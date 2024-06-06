@@ -1,9 +1,4 @@
-# Korge Hello World and Template
+# NextDevv's Game of Life
+It's just a recration of Conway's Game of Life
 
-This is a Hello World and Template for the KorGe game engine. Using gradle with kotlin-dsl.
-You can open this project in IntelliJ IDEA by opening the folder or the build.gradle.kts file.
-
-You can find this template at GitHub: <https://github.com/korlibs/korge-hello-world>
-
-
-You can find the KorGE documentation here: <https://docs.korge.org/korge/>
+![image](https://github.com/NextDevv/game_of_life/assets/110189996/b4d2a01e-2d6a-477a-aba0-92d08f3b22d2)
